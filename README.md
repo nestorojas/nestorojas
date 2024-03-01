@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nestor Rojas
-- 👀 I’m a Software Engineer C#/.Net
-- 🌱 I’m currently learning Blazor
+- 👀 I’m a Software Engineer
+- 🌱 I’m currently working on Machine Learning Systems
 - 📫 How to reach me nestor.rojas@live.com
 
 <!---
